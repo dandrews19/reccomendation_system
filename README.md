@@ -73,3 +73,5 @@ To run the recommendation system, ensure you have a pre-trained model available.
 
 ### Note
 This README assumes that the model training and hyperparameter tuning have already been completed. If this is not the case, refer to the **Model Training and Evaluation** and **Hyperparameter Tuning** sections for instructions on these processes.
+
+** user.json and business.json are too large to upload to GitHub, if you would like the data for your own purposes, contact me @ dandrews2019@gmail.com
